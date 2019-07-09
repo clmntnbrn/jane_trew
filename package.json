@@ -1,0 +1,22 @@
+{
+  "name": "jane_trew",
+  "version": "1.0.0",
+  "description": "CV website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clmntnbrn/jane_trew.git).git"
+  },
+  "author": "Clementine Brown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clmntnbrn/jane_trew.git)/issues"
+  },
+  "homepage": "https://github.com/clmntnbrn/jane_trew.git)#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
