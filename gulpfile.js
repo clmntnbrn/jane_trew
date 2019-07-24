@@ -5,3 +5,5 @@ gulp.task('default', function() {
 });
 
 var browserSync = require('browser-sync').create()
+
+gulp.watch()
