@@ -9,7 +9,8 @@
 *
 * 	Template Style 
 *	Edit this section
-*
+*CA82F8 original colour
+*d49af9 original hover colour
 * ======================================================= */
 body {
   font-family: "Karla", Arial, sans-serif;
@@ -34,13 +35,13 @@ body {
     overflow-y: hidden; }
 
 a {
-  color: #CA82F8;
+  color: #5D60D7;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
   a:hover {
     text-decoration: underline;
-    color: #CA82F8; }
+    color: #5D60D7; }
   a:focus, a:active {
     outline: none; }
 
@@ -204,7 +205,7 @@ h1, h2, h3, h4, h5, h6 {
           outline: none;
           text-decoration: none; }
       #colorlib-main-nav ul li.active a {
-        color: #CA82F8; }
+        color: #5D60D7; }
   #colorlib-main-nav .form-group {
     margin-bottom: 40px;
     position: relative;
@@ -238,7 +239,7 @@ h1, h2, h3, h4, h5, h6 {
     -moz-border-radius: 0;
     -ms-border-radius: 0;
     border-radius: 0;
-    background: #CA82F8;
+    background: #5D60D7;
     color: #fff;
     border: none;
     padding: 16px; }
@@ -308,14 +309,14 @@ header {
     header .colorlib-navbar-brand .colorlib-logo {
       font-size: 20px;
       text-transform: uppercase;
-      color: #000;
+      color: #5D60D7;
       font-weight: 400;
       letter-spacing: 5px;
       padding: 20px;
-      border: 1px solid #000;
+      border: 1px solid #5D60D7;
       display: block;
       text-align: center;
-      background: #000; }
+      background: #5D60D7; }
       header .colorlib-navbar-brand .colorlib-logo span {
         display: block;
         margin-bottom: 0;
@@ -424,7 +425,7 @@ header {
   left: 0;
   right: 0;
   font-size: 250px;
-  color: #f0f0f0;
+  color: #d9d9fa49;
   font-weight: 700; }
   @media screen and (max-width: 768px) {
     .bold {
@@ -445,7 +446,7 @@ header {
     font-size: 12px;
     letter-spacing: 3px;
     margin-bottom: 10px;
-    color: #bfbfbf;
+    color: #6c80f7da;
     font-weight: 600; }
 
 .services-img,
@@ -988,18 +989,18 @@ header {
     outline: none !important; }
 
 .btn-primary {
-  background: #CA82F8;
+  background: #5D60D7;
   color: #fff;
-  border: 2px solid #CA82F8; }
+  border: 2px solid #5D60D7; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-    background: #d49af9 !important;
-    border-color: #d49af9 !important; }
+    background: #A2AAED !important;
+    border-color: #A2AAED !important; }
   .btn-primary.btn-outline {
     background: transparent;
     color: #4d4d4d;
     border: 1px solid #d9d9d9; }
     .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-      background: #CA82F8;
+      background: #5D60D7;
       color: #fff; }
 
 .btn-success {
@@ -1229,7 +1230,7 @@ header {
       font-size: 16px;
       color: rgba(0, 0, 0, 0.5); }
     .contact-info li a {
-      color: #CA82F8; }
+      color: #5D60D7; }
 
 .form-control {
   -webkit-box-shadow: none;
@@ -1261,7 +1262,7 @@ input[type="text"] {
 
 .colorlib-social-icons i {
   font-size: 24px;
-  color: #CA82F8; }
+  color: #5D60D7; }
 
 #footer {
   padding: 8em 0;
@@ -1278,7 +1279,7 @@ input[type="text"] {
     text-decoration: none !important; }
   #footer p.colorlib-social-icons i {
     font-size: 24px;
-    color: #CA82F8; }
+    color: #5D60D7; }
   #footer p .block {
     color: #1a1a1a;
     font-size: 14px; }
