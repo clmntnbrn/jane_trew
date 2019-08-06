@@ -425,7 +425,7 @@ header {
   left: 0;
   right: 0;
   font-size: 250px;
-  color: #d9d9fa49;
+  color: #f0f0f0;
   font-weight: 700; }
   @media screen and (max-width: 768px) {
     .bold {
@@ -446,7 +446,7 @@ header {
     font-size: 12px;
     letter-spacing: 3px;
     margin-bottom: 10px;
-    color: #6c80f7da;
+    color: #bfbfbf;
     font-weight: 600; }
 
 .services-img,
