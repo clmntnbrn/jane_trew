@@ -12,13 +12,17 @@
 *CA82F8 original colour
 *d49af9 original hover colour
 * ======================================================= */
+.padding-top {
+  padding-top: 40px;
+}
+
 body {
   font-family: "Karla", Arial, sans-serif;
   line-height: 1.8;
   font-size: 16px;
   font-weight: 400;
   background: #fafafa;
-  color: gray; }
+  color: rgba(0, 0, 0, 0.6); }
   body.menu-show {
     overflow: hidden;
     position: fixed;
@@ -61,7 +65,8 @@ span {
 h1, h2, h3, h4, h5, h6 {
   color: rgba(0, 0, 0, 0.8);
   font-family: "Playfair Display", Georgia, serif;
-  margin: 0 0 30px 0; }
+  line-height: 1.3em;
+  margin: 0 0 20px 0; }
 
 ::-webkit-selection {
   color: #fcfcfc;
