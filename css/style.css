@@ -13,7 +13,7 @@
 *d49af9 original hover colour
 * ======================================================= */
 .padding-top {
-  padding-top: 40px;
+  padding-top: 2.3em;
 }
 
 body {
@@ -40,6 +40,7 @@ body {
 
 a {
   color: #5D60D7;
+  font-weight: 600;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
@@ -56,8 +57,13 @@ p, span {
 
 ul, ol {
   display: block;
-  margin-bottom: 1.5em; }
+  margin-bottom: 1.5em;
+  margin-top: 0.5em; }
 
+/* more {
+  margin-top: 1em;
+  background-color: #049dff;
+} */
 span {
   font-size: 18px;
   color: rgba(114, 114, 114, 0.8); }
