@@ -12,6 +12,29 @@
 *CA82F8 original colour
 *d49af9 original hover colour
 * ======================================================= */
+.cv h4 {
+  color: #5D60D7
+}
+.cb {
+  padding: 2em 0 2em 0;
+  background-color: #5D60D7;
+  color: white;
+}
+
+.cb a {
+  color: white;
+}
+
+.cb a:hover {
+  color: white;
+}
+
+.filter {
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+  padding: 1em;
+}
+
 .padding-top {
   padding-top: 2.3em;
 }
@@ -340,7 +363,10 @@ header {
         text-decoration: none; }
 
 #colorlib-services,
-#colorlib-contact,
+#colorlib-skills,
+#colorlib-profile,
+#colorlib-clients,
+#colorlib-experience,
 #colorlib-work,
 #colorlib-blog,
 #colorlib-testimony,
@@ -361,6 +387,11 @@ header {
     #colorlib-about {
       padding: 5em 0; } }
 
+#colorlib-about {
+  padding: 10em 0 5em 0;
+}
+
+
 .rotate {
   position: absolute;
   top: .4em;
@@ -368,6 +399,7 @@ header {
   .rotate .heading {
     font-family: "Karla", Arial, sans-serif;
     font-size: 14px;
+    color: #5D60D7;
     text-transform: uppercase;
     letter-spacing: 1em;
     -webkit-transform: rotate(90deg);
@@ -457,7 +489,7 @@ header {
     font-size: 12px;
     letter-spacing: 3px;
     margin-bottom: 10px;
-    color: #bfbfbf;
+    color: #5D60D7;
     font-weight: 600; }
 
 .services-img,
@@ -935,7 +967,7 @@ header {
 #colorlib-testimony .owl-theme .owl-dots .owl-dot.active span,
 #colorlib-testimony .owl-theme .owl-dots .owl-dot:hover span {
   height: 3px;
-  background: #000; }
+  background: #5D60D7; }
 
 #colorlib-testimony .owl-theme .owl-dots .owl-dot span {
   width: 30px;
