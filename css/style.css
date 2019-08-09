@@ -418,7 +418,7 @@ header {
       top: 8px;
       right: -40px;
       content: '';
-      background: #000;
+      background: #5D60D7;
       width: 40px;
       height: 1px; }
 
@@ -500,6 +500,13 @@ header {
   background-repeat: no-repeat;
   position: relative; }
 
+  .work-img {
+    -webkit-box-shadow: 0px 1px 1px 1px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0px 1px 1px 1px rgba(0, 0, 0, 0.1);
+    -ms-box-shadow: 0px 1px 1px 1px rgba(0, 0, 0, 0.1);
+    -o-box-shadow: 0px 1px 1px 1px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 1px 1px 1px rgba(0, 0, 0, 0.1);
+  }
 .progress-head {
   font-size: 22px; }
 
@@ -810,7 +817,7 @@ header {
   .work-entry .desc .read {
     text-align: right; }
     .work-entry .desc .read a {
-      color: #000;
+      color: #5D60D7;
       text-transform: uppercase;
       letter-spacing: 4px;
       font-size: 12px;
@@ -823,7 +830,7 @@ header {
         content: '';
         width: 40px;
         height: 1px;
-        background: #000; }
+        background: #5D60D7; }
 
 #colorlib-blog .owl-carousel {
   z-index: 0; }
