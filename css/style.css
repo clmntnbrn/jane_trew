@@ -81,7 +81,8 @@ p, span {
 ul, ol {
   display: block;
   margin-bottom: 1.5em;
-  margin-top: 0.5em; }
+  margin-top: 0.5em;
+  list-style-type: circle; }
 
 /* more {
   margin-top: 1em;
@@ -373,7 +374,7 @@ header {
 #colorlib-progress,
 #colorlib-contact,
 #colorlib-about {
-  padding: 10em 0;
+  padding: 4em 0;
   clear: both;
   position: relative; }
   @media screen and (max-width: 768px) {
@@ -738,7 +739,7 @@ header {
         display: block; } }
 
 .services {
-  margin-bottom: 4em; }
+  margin-bottom: 2em; }
   .services h3 {
     font-family: "Karla", Arial, sans-serif;
     font-size: 16px;
