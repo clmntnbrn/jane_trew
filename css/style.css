@@ -12,6 +12,10 @@
 *CA82F8 original colour
 *d49af9 original hover colour
 * ======================================================= */
+.bullets li {
+  line-height: 40px;
+}
+
 .cv h4 {
   color: #2E2A72
 }
@@ -82,7 +86,7 @@ ul, ol {
   display: block;
   margin-bottom: 1.5em;
   margin-top: 0.5em;
-  list-style-type: circle; }
+  list-style-type: disc; }
 
 /* more {
   margin-top: 1em;
