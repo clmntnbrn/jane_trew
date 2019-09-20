@@ -13,11 +13,11 @@
 *d49af9 original hover colour
 * ======================================================= */
 .cv h4 {
-  color: #5E9B61
+  color: #2E2A72
 }
 .cb {
   padding: 2em 0 2em 0;
-  background-color: #5E9B61;
+  background-color: #2E2A72;
   color: white;
 }
 
@@ -62,14 +62,14 @@ body {
     overflow-y: hidden; }
 
 a {
-  color: #5E9B61;
+  color: #2E2A72;
   font-weight: 600;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
   a:hover {
     text-decoration: underline;
-    color: #5E9B61; }
+    color: #2E2A72; }
   a:focus, a:active {
     outline: none; }
 
@@ -240,7 +240,7 @@ h1, h2, h3, h4, h5, h6 {
           outline: none;
           text-decoration: none; }
       #colorlib-main-nav ul li.active a {
-        color: #5E9B61; }
+        color: #2E2A72; }
   #colorlib-main-nav .form-group {
     margin-bottom: 40px;
     position: relative;
@@ -274,7 +274,7 @@ h1, h2, h3, h4, h5, h6 {
     -moz-border-radius: 0;
     -ms-border-radius: 0;
     border-radius: 0;
-    background: #5E9B61;
+    background: #2E2A72;
     color: #fff;
     border: none;
     padding: 16px; }
@@ -344,14 +344,14 @@ header {
     header .colorlib-navbar-brand .colorlib-logo {
       font-size: 20px;
       text-transform: uppercase;
-      color: #5E9B61;
+      color: #2E2A72;
       font-weight: 400;
       letter-spacing: 5px;
       padding: 20px;
-      border: 1px solid #5E9B61;
+      border: 1px solid #2E2A72;
       display: block;
       text-align: center;
-      background: #5E9B61; }
+      background: #2E2A72; }
       header .colorlib-navbar-brand .colorlib-logo span {
         display: block;
         margin-bottom: 0;
@@ -400,7 +400,7 @@ header {
   .rotate .heading {
     font-family: "Karla", Arial, sans-serif;
     font-size: 14px;
-    color: #5E9B61;
+    color: #2E2A72;
     text-transform: uppercase;
     letter-spacing: 1em;
     -webkit-transform: rotate(90deg);
@@ -419,7 +419,7 @@ header {
       top: 8px;
       right: -40px;
       content: '';
-      background: #5E9B61;
+      background: #2E2A72;
       width: 40px;
       height: 1px; }
 
@@ -490,7 +490,7 @@ header {
     font-size: 12px;
     letter-spacing: 3px;
     margin-bottom: 10px;
-    color: #5E9B61;
+    color: #2E2A72;
     font-weight: 600; }
 
 .services-img,
@@ -818,7 +818,7 @@ header {
   .work-entry .desc .read {
     text-align: right; }
     .work-entry .desc .read a {
-      color: #5E9B61;
+      color: #2E2A72;
       text-transform: uppercase;
       letter-spacing: 4px;
       font-size: 12px;
@@ -831,7 +831,7 @@ header {
         content: '';
         width: 40px;
         height: 1px;
-        background: #5E9B61; }
+        background: #2E2A72; }
 
 #colorlib-blog .owl-carousel {
   z-index: 0; }
@@ -975,7 +975,7 @@ header {
 #colorlib-testimony .owl-theme .owl-dots .owl-dot.active span,
 #colorlib-testimony .owl-theme .owl-dots .owl-dot:hover span {
   height: 3px;
-  background: #5E9B61; }
+  background: #2E2A72; }
 
 #colorlib-testimony .owl-theme .owl-dots .owl-dot span {
   width: 30px;
@@ -1055,9 +1055,9 @@ header {
     outline: none !important; }
 
 .btn-primary {
-  background: #5E9B61;
+  background: #2E2A72;
   color: #fff;
-  border: 2px solid #5E9B61; }
+  border: 2px solid #2E2A72; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
     background: #A2AAED !important;
     border-color: #A2AAED !important; }
@@ -1066,7 +1066,7 @@ header {
     color: #4d4d4d;
     border: 1px solid #d9d9d9; }
     .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-      background: #5E9B61;
+      background: #2E2A72;
       color: #fff; }
 
 .btn-success {
@@ -1296,7 +1296,7 @@ header {
       font-size: 16px;
       color: rgba(0, 0, 0, 0.5); }
     .contact-info li a {
-      color: #5E9B61; }
+      color: #2E2A72; }
 
 .form-control {
   -webkit-box-shadow: none;
@@ -1328,7 +1328,7 @@ input[type="text"] {
 
 .colorlib-social-icons i {
   font-size: 24px;
-  color: #5E9B61; }
+  color: #2E2A72; }
 
 #footer {
   padding: 8em 0;
@@ -1345,7 +1345,7 @@ input[type="text"] {
     text-decoration: none !important; }
   #footer p.colorlib-social-icons i {
     font-size: 24px;
-    color: #5E9B61; }
+    color: #2E2A72; }
   #footer p .block {
     color: #1a1a1a;
     font-size: 14px; }
