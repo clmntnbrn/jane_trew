@@ -1023,6 +1023,23 @@ header {
     font-size: 20px;
     line-height: 4rem;}
 
+.testimony-page blockquote {
+  background-color: #f0f0f0;
+  border: none;
+  padding: 30px;
+  margin-bottom: 40px;
+  }
+  .testimony-page blockquote p {
+    font-family: "Playfair Display", Georgia, serif;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    line-height: 4rem;}
+  .testimony-page blockquote span {
+    font-family: "Playfair Display", Georgia, serif;
+    color: #2E2A72;
+    font-size: 20px;
+    line-height: 4rem;}
+
 .f-entry {
   position: relative;
   margin-bottom: 40px; }
@@ -1308,6 +1325,12 @@ header {
       color: rgba(0, 0, 0, 0.5); }
     .contact-info li a {
       color: #2E2A72; }
+    
+.contact-info-jane {
+  font-size: 1.2em;
+  background-color: #f0f0f0;
+  padding: 20px;
+}
 
 .form-control {
   -webkit-box-shadow: none;
