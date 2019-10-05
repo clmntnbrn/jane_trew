@@ -13,6 +13,11 @@
 *d49af9 original hover colour
 * ======================================================= */
 
+.clients {
+  /* font-family: "Playfair Display", Georgia, serif; */
+  color:rgba(0, 0, 0, 0.8);
+  font-size: 1.2em;
+}
 
 .bullets li {
   line-height: 30px;
