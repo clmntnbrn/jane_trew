@@ -13,6 +13,13 @@
 *d49af9 original hover colour
 * ======================================================= */
 
+.hr {
+  margin-top: 0px;
+  margin-bottom: 60px;
+  border: 0;
+  border-top: 2px rgba(0, 0, 0, 0.5);
+}
+
 .clients {
   /* font-family: "Playfair Display", Georgia, serif; */
   color:rgba(0, 0, 0, 0.8);
