@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/clmntnbrn/jane_trew.git)#readme",
   "devDependencies": {
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.27.10",
     "gulp": "^3.9.1",
     "gulp-sass": "^4.0.2",
     "node-sass": "^4.12.0"
