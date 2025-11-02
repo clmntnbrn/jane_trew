@@ -1425,3 +1425,16 @@ input[type="text"] {
 
 .js .animate-box {
   opacity: 0; }
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
+#colorlib-page {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+#colorlib-page > footer {
+  margin-top: auto;
+}
